@@ -22,3 +22,4 @@ function change(element) {
         }
     }
 }
+console.log("hello");
