@@ -13,7 +13,8 @@ body{
     padding: 0px;
   
 }
- /* Style container End */
+p{background-color: #9FC5F8;} 
+/* Style container End */
  /* Style Header start */
 .header{
     background-color: #9FC5F8;
